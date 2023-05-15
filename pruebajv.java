@@ -1,4 +1,4 @@
-public class Main {
+public class pruebajv {
 
   public static void main(String[] args) {
     char last = 'E', alphabet = 'A';
